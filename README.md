@@ -28,6 +28,7 @@ https://www.businessinsider.nl/energiebelastingen-in-2024-gas-stroom-netbeheer-d
 
 https://youtu.be/Kt1FpRM8R18?si=hQEX_6vp035XMyAi
 
-
+alarm
+https://www.digitaldomo.nl/node-red/alarm-paneel/?fbclid=IwAR3tdDCYxYvYoX5vgiYssfLMjA6XRyg_y0MFj8pqsPDNxa4mvcKyxEA5Wq0
     
 
